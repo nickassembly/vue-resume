@@ -52,7 +52,7 @@
           </h1>
           <div class="subheading mb-5">
             {{ address }}
-            <a href="mailto:name@email.com">{{ email }}</a>
+            <a href="mailto:nickg@maliciousgames.com">{{ email }}</a>
           </div>
           <p class="mb-5">{{ aboutMe }}</p>
           <ul class="list-inline list-social-icons mb-0">
@@ -275,39 +275,39 @@ export default {
       address: "908 East Chuck Street. Gonzales, LA 70737 (225)290-2080 ",
       email: "NickG@maliciousgames.com",
       aboutMe:
-        "I am experienced in leveraging agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition.",
+        "I am a motivated professional with a broad range of skills and experience. My most important skill is my agility with learning and enhancing new skills. I can work effectively within teams as well as improve them using my organizational and communication skills. I am seeking a position through which I can leverage my current ability to add value, while at the same time continue to expand my working skill set.",
       experience: [
         {
-          position: "Senior Web Developer",
-          company: "Intelitec Solutions",
+          position: "Software Developer",
+          company: "PTS Solutions",
           description:
-            "Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.",
-          startDate: "March 2013",
-          endDate: "Present"
+            "Working as a full stack developer to build and maintain desktop applications in WPF, Winforms, as well as working with clients to create back end Rest Apis. I also work with clients to create and maintain interfaces between our software and other 3rd party solutions. I also work to maintain and optimize multiple SQL databases by improving design of schemas as well as refactoring legacy code.",
+          startDate: "September 2018",
+          endDate: "Current"
         },
         {
-          position: "Web Developer",
-          company: "Intelitec Solutions",
+          position: "Softare Developer",
+          company: "Malicious Games LLC.",
           description:
-            "Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.",
-          startDate: "December 2011",
-          endDate: "March 2013"
+            "Co-founder and part owner of Malicious Gaming studio where me and the rest of my team are working to develop our first title for the PC, now in early access. Develop code for User Interface and User Experience within the Unity IDE with C#. I also work with the rest of the team to design and deploy various game mechanics.",
+          startDate: "August 2013",
+          endDate: "Current"
         },
         {
-          position: "Junior Web Designer",
-          company: "Shout! Media Productions",
+          position: "Software Developer",
+          company: "Guerra Technologies",
           description:
-            "Podcasting operational change management inside of workflows to establish a framework. Taking seamless key performance indicators offline to maximise the long tail. Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration.",
-          startDate: "July 2010",
-          endDate: "December 2011"
+            "Web design and development for one of my side projects, where we build custom applications, as well as design and deploy ecommerce web sites to promote local music and culture and produce podcasts.",
+          startDate: "June 2016",
+          endDate: "Current"
         },
         {
-          position: "Web Design Intern",
-          company: "Shout! Media Productions",
+          position: "Sales Support Representative",
+          company: "AT&T",
           description:
-            "Collaboratively administrate empowered markets via plug-and-play networks. Dynamically procrastinate B2C users after installed base benefits. Dramatically visualize customer directed convergence without revolutionary ROI.",
-          startDate: "September 2008",
-          endDate: "June 2010"
+            "I worked as a sales representative at AT&T, which involved meeting and exceeding sales goal to progress in my career path. My position also involved instructing customers on the proper use of various software and web applications available on flagship mobile devices.",
+          startDate: "June 2014",
+          endDate: "August 2018"
         }
       ]
     };
