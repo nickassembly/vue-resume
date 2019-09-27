@@ -28,6 +28,12 @@
             <a class="nav-link js-scroll-trigger" href="#about">Main</a>
           </li>
           <li class="nav-item">
+            <a
+              class="nav-link js-scroll-trigger"
+              href="https://sad-turing-86b3e5.netlify.com/work/"
+            >Portfolio Page</a>
+          </li>
+          <li class="nav-item">
             <a class="nav-link js-scroll-trigger" href="#experience">Experience</a>
           </li>
           <li class="nav-item">
@@ -37,7 +43,7 @@
             <a class="nav-link js-scroll-trigger" href="#skills">Skills</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="#interests">Interests</a>
+            <a class="nav-link js-scroll-trigger" href="#interests">Other Interests</a>
           </li>
         </ul>
       </div>
