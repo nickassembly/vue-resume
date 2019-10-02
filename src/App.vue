@@ -63,34 +63,27 @@
           <p class="mb-5">{{ aboutMe }}</p>
           <ul class="list-inline list-social-icons mb-0">
             <li class="list-inline-item">
-              <a href="#">
+              <a href="https://github.com/nickassembly">
                 <span class="fa-stack fa-lg">
                   <i class="fa fa-circle fa-stack-2x"></i>
-                  <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
+                  <i class="fa fa-github fa-stack-1x fa-inverse"></i>
                 </span>
               </a>
             </li>
             <li class="list-inline-item">
-              <a href="#">
-                <span class="fa-stack fa-lg">
-                  <i class="fa fa-circle fa-stack-2x"></i>
-                  <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
-                </span>
-              </a>
-            </li>
-            <li class="list-inline-item">
-              <a href="#">
+              <a href="https://www.linkedin.com/in/nick-guerra-9ba557144/">
                 <span class="fa-stack fa-lg">
                   <i class="fa fa-circle fa-stack-2x"></i>
                   <i class="fa fa-linkedin fa-stack-1x fa-inverse"></i>
                 </span>
               </a>
             </li>
+
             <li class="list-inline-item">
-              <a href="#">
+              <a href="https://twitter.com/nickassembly">
                 <span class="fa-stack fa-lg">
                   <i class="fa fa-circle fa-stack-2x"></i>
-                  <i class="fa fa-github fa-stack-1x fa-inverse"></i>
+                  <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
                 </span>
               </a>
             </li>
@@ -171,15 +164,11 @@
             <li class="list-inline-item">
               <i class="devicons devicons-bootstrap"></i>
             </li>
-            <li class="list-inline-item">
-              <i class="devicons devicons-wordpress"></i>
-            </li>
 
             <li class="list-inline-item">
               <i class="devicons devicons-npm"></i>
             </li>
           </ul>
-
           <div class="subheading mb-3">Workflow</div>
           <ul class="fa-ul mb-0">
             <li>
@@ -194,6 +183,14 @@
               <i class="fa-li fa fa-check"></i>
               Agile Development &amp; Scrum
             </li>
+            <li>
+              <i class="fa-li fa fa-check"></i>
+              Managing a product lifecycle
+            </li>
+            <li>
+              <i class="fa-li fa fa-check"></i>
+              Integration of new technologies to streamline efficiency
+            </li>
           </ul>
         </div>
       </section>
@@ -201,7 +198,7 @@
       <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="interests">
         <div class="my-auto">
           <h2 class="mb-5">Interests</h2>
-          <p>I enjoy exercise and the outdoors, as well as pc strategy games in my spare time.</p>
+          <p>I enjoy playing and building PC strategy games in my spare time. When I am not coding, I am usually exercising and listening to audiobooks and podcasts.</p>
           <p class="mb-0"></p>
         </div>
       </section>
@@ -225,15 +222,14 @@ export default {
           position: "Software Developer",
           company: "PTS Solutions",
           description:
-            "Working as a full stack developer to build and maintain desktop applications in WPF, Winforms, as well as working with clients to create back end Rest Apis. I also work with clients to create and maintain interfaces between our software and other 3rd party solutions. I also work to maintain and optimize multiple SQL databases by improving design of schemas as well as refactoring legacy code.",
+            "Developed and Maintained desktop applications in WPF and Winforms. Developed APIs in .Net and .Net Core. Worked with SQL server.",
           startDate: "September 2018",
           endDate: "Current"
         },
         {
           position: "Softare Developer",
           company: "Malicious Games LLC.",
-          description:
-            "Co-founder and part owner of Malicious Gaming studio where me and the rest of my team are working to develop our first title for the PC, now in early access. Develop code for User Interface and User Experience within the Unity IDE with C#. I also work with the rest of the team to design and deploy various game mechanics.",
+          description: "UI/UX Development using C# and Unity Framework.",
           startDate: "August 2013",
           endDate: "Current"
         },
@@ -241,7 +237,7 @@ export default {
           position: "Software Developer",
           company: "Guerra Technologies",
           description:
-            "Web design and development for one of my side projects, where we build custom applications, as well as design and deploy ecommerce web sites to promote local music and culture and produce podcasts.",
+            "Web Application Development using Asp.net. Website design and development using Javascript/CSS/HTML. Search engine optimization and marketing. ",
           startDate: "June 2016",
           endDate: "Current"
         },
@@ -252,6 +248,14 @@ export default {
             "I worked as a sales representative at AT&T, which involved meeting and exceeding sales goal to progress in my career path. My position also involved instructing customers on the proper use of various software and web applications available on flagship mobile devices.",
           startDate: "June 2014",
           endDate: "August 2018"
+        },
+        {
+          position: "Regional Manager",
+          company: "Chimes Textbook Exchange LLC.",
+          description:
+            "Let multiple teams to manage sales and inventory. Organized and developed software product to interact with Amazon's API to process textbook orders.",
+          startDate: "January 2005",
+          endDate: "June 2014"
         }
       ]
     };
