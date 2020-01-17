@@ -214,7 +214,7 @@ export default {
       name: "Nicholas C",
       surname: "Guerra",
       address: "908 East Chuck Street. Gonzales, LA 70737 (225)290-2080 ",
-      email: "NickG@maliciousgames.com",
+      email: "NickGuerra@gmail.com",
       aboutMe:
         "I am a motivated professional with a broad range of skills and experience. My most important skill is my agility with learning and enhancing new skills. I can work effectively within teams as well as improve them using my organizational and communication skills. I am seeking a position through which I can leverage my current ability to add value, while at the same time continue to expand my working skill set.",
       experience: [
