@@ -1,6 +1,9 @@
 <template>
   <div class="main-wrapper">
-    <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
+    <nav
+      class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top"
+      id="sideNav"
+    >
       <a class="navbar-brand js-scroll-trigger" href="#about">
         <span class="d-block d-lg-none"></span>
         <span class="d-none d-lg-block">
@@ -30,20 +33,27 @@
           <li class="nav-item">
             <a
               class="nav-link js-scroll-trigger"
-              href="https://sad-turing-86b3e5.netlify.com/work/"
-            >Portfolio Page</a>
+              href="http://www.nicholascguerra.com"
+              >Portfolio Page</a
+            >
           </li>
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="#experience">Experience</a>
+            <a class="nav-link js-scroll-trigger" href="#experience"
+              >Experience</a
+            >
           </li>
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="#education">Education</a>
+            <a class="nav-link js-scroll-trigger" href="#education"
+              >Education</a
+            >
           </li>
           <li class="nav-item">
             <a class="nav-link js-scroll-trigger" href="#skills">Skills</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="#interests">Other Interests</a>
+            <a class="nav-link js-scroll-trigger" href="#interests"
+              >Other Interests</a
+            >
           </li>
         </ul>
       </div>
@@ -91,7 +101,10 @@
         </div>
       </section>
 
-      <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="experience">
+      <section
+        class="resume-section p-3 p-lg-5 d-flex flex-column"
+        id="experience"
+      >
         <div class="my-auto">
           <h2 class="mb-5">Experience</h2>
 
@@ -106,13 +119,18 @@
               <p>{{ job.description }}</p>
             </div>
             <div class="resume-date text-md-right">
-              <span class="text-primary">{{ job.startDate }} - {{ job.endDate }}</span>
+              <span class="text-primary"
+                >{{ job.startDate }} - {{ job.endDate }}</span
+              >
             </div>
           </div>
         </div>
       </section>
 
-      <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="education">
+      <section
+        class="resume-section p-3 p-lg-5 d-flex flex-column"
+        id="education"
+      >
         <div class="my-auto">
           <h2 class="mb-5">Education</h2>
 
@@ -195,10 +213,17 @@
         </div>
       </section>
 
-      <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="interests">
+      <section
+        class="resume-section p-3 p-lg-5 d-flex flex-column"
+        id="interests"
+      >
         <div class="my-auto">
           <h2 class="mb-5">Interests</h2>
-          <p>I enjoy playing and building PC strategy games in my spare time. When I am not coding, I am usually exercising and listening to audiobooks and podcasts.</p>
+          <p>
+            I enjoy playing and building PC strategy games in my spare time.
+            When I am not coding, I am usually exercising and listening to
+            audiobooks and podcasts.
+          </p>
           <p class="mb-0"></p>
         </div>
       </section>
