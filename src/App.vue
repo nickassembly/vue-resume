@@ -33,7 +33,7 @@
           <li class="nav-item">
             <a
               class="nav-link js-scroll-trigger"
-              href="http://www.nicholascguerra.com"
+              href="http://nicholascguerra.com"
               >Portfolio Page</a
             >
           </li>
