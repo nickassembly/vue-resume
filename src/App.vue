@@ -187,7 +187,7 @@
               <i class="devicons devicons-npm"></i>
             </li>
           </ul>
-          <div class="subheading mb-3">Workflow</div>
+          <div class="subheading mb-3">Patterns and Practices I work with daily</div>
           <ul class="fa-ul mb-0">
             <li>
               <i class="fa-li fa fa-check"></i>
@@ -243,23 +243,47 @@ export default {
       aboutMe:
         "I am a motivated professional with a broad range of skills and experience. My most important skill is my agility with learning and enhancing new skills. I can work effectively within teams as well as improve them using my organizational and communication skills. I am seeking a position through which I can leverage my current ability to add value, while at the same time continue to expand my working skill set.",
       experience: [
+          {
+          position: "Application Programmer II",
+          company: "State of Louisiana Office of Technology Services",
+          description:
+            "I currently work with various State Departments to create and maintain software applications used in daily operations.",
+          startDate: "September 2020",
+          endDate: "Current"
+         },
+         {
+          position: "Software Developer",
+          company: " Vision Corp",
+          description:
+            "Worked on API for mobile application used in product management",
+          startDate: "February 2020",
+          endDate: "September 2020"
+         },
+         {
+          position: "Software Developer",
+          company: " Turner Industries",
+          description:
+            "Worked with a team of developers to maintain internal applications.",
+          startDate: "February 2020",
+          endDate: "March 2020"
+        },
         {
           position: "Software Developer",
           company: "PTS Solutions",
           description:
             "Developed and Maintained desktop applications in WPF and Winforms. Developed APIs in .Net and .Net Core. Worked with SQL server.",
           startDate: "September 2018",
-          endDate: "Current"
+          endDate: "February 2020"
         },
         {
-          position: "Softare Developer",
+          position: "Game Designer Developer",
           company: "Malicious Games LLC.",
-          description: "UI/UX Development using C# and Unity Framework.",
+          description: "I currently work in Unity 3D to design and develop PC games",
           startDate: "August 2013",
           endDate: "Current"
         },
         {
-          position: "Software Developer",
+          position: "Web Developer",
           company: "Guerra Technologies",
           description:
             "Web Application Development using Asp.net. Website design and development using Javascript/CSS/HTML. Search engine optimization and marketing. ",
